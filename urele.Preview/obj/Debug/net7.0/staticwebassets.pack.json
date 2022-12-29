@@ -1,0 +1,309 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\obj\\Debug\\net7.0\\build-gz\\6fS34x7P.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\obj\\Debug\\net7.0\\scopedcss\\bundle\\urele.Preview.styles.css",
+      "PackagePath": "staticwebassets\\urele.Preview.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\css\\theme-rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\css\\theme-rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\css\\theme-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\css\\theme-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\css\\theme.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\.gitkeep",
+      "PackagePath": "staticwebassets\\assets\\img\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\gallery\\axel.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\axel.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\gallery\\user1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\gallery\\user2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\gallery\\user3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user3.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\gallery\\user4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user4.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\gallery\\user5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user5.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\gallery\\user6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user6.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\gallery\\user7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user7.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\icons\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\icons\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\icons\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\icons\\star.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\illustrations\\hero-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\hero-3.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\illustrations\\hero.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\illustrations\\hero2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\hero2.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\illustrations\\hero3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\hero3.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\illustrations\\vector.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\vector.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\logo_full.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo_full.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\yeniler\\link.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\link.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\yeniler\\linkegit.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\linkegit.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\yeniler\\mail.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\yeniler\\sms.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\sms.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\yeniler\\telefon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\telefon.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\yeniler\\whatsapp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\whatsapp.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\img\\yeniler\\özel_link.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\özel_link.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\js\\theme.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\js\\theme.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\video\\.gitkeep",
+      "PackagePath": "staticwebassets\\assets\\video\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\video\\beach.jpg",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\video\\beach.mp4",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.mp4"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\assets\\video\\beach.webm",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.webm"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-prew\\urele.Preview\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.urele.Preview.props",
+      "PackagePath": "build\\urele.Preview.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.urele.Preview.props",
+      "PackagePath": "buildMultiTargeting\\urele.Preview.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.urele.Preview.props",
+      "PackagePath": "buildTransitive\\urele.Preview.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.urele.Preview.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
